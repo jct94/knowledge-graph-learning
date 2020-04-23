@@ -87,11 +87,6 @@ I write notes of paper and post them in the issue. It is written in Chinese. Fee
 * [Relation Extraction II: CSE 517: Natural Language Processing](https://courses.cs.washington.edu/courses/cse517/13wi/slides/cse517wi13-RelationExtractionII.pdf)
 
 
-### Event Extraction
-
-* [事件抽取与金融事件图谱构建](https://www.jiqizhixin.com/articles/2018-10-17-12)
-
-
 ### Survey
 
 * Deep Learning in Knowledge Graph (2018), [[Note]](https://github.com/BrambleXu/knowledge-graph-learning/issues/31)
