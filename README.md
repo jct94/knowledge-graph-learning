@@ -32,6 +32,8 @@ I write notes of paper and post them in the issue. It is written in Chinese. Fee
 - [Ontology-based information extraction](https://github.com/BrambleXu/knowledge-graph-learning/issues?utf8=✓&q=+label%3AOBIE%28T%29+)
 - [Relation Extraction](https://github.com/BrambleXu/knowledge-graph-learning/issues?utf8=✓&q=label%3ARE%28T%29+)
 - [Semantic Role Labeling](https://github.com/BrambleXu/knowledge-graph-learning/issues?utf8=✓&q=label%3ASRL%28T%29+)
+- [DeepPath](https://arxiv.org/pdf/1707.pdf)
+
 
 <details><summary>other non-related task paper</summary>
 <p>
@@ -77,6 +79,8 @@ I write notes of paper and post them in the issue. It is written in Chinese. Fee
 * [Knowledge Graphs - The Power of Graph-Based Search](https://www.slideshare.net/neo4j/knowledge-graphs-the-power-of-graphbased-search) from Neo4j
 * [Knowledge Integration in Practice](https://www.slideshare.net/pmika/knowledge-integration-in-practice) from YAHOO
 * [Recent trends of Entiy Linking](https://github.com/izuna385/EntityLinking_RecentTrend)
+* [Good Medium stuff](https://medium.com/@mgalkin/knowledge-graphs-in-natural-language-processing-acl-2019-7a14eb20fce8)
+* [ENS Slides - Rpz](http://www.lix.polytechnique.fr/~mvazirg/gow_tutorial_webconf_2018.pdf)
 
 ### Relation Extraction
 
@@ -89,7 +93,9 @@ I write notes of paper and post them in the issue. It is written in Chinese. Fee
 
 * Deep Learning in Knowledge Graph (2018), [[Note]](https://github.com/BrambleXu/knowledge-graph-learning/issues/31)
 * [Summary of Translate Model for Knowledge Graph Embedding](https://medium.com/@zhuixiyou/summary-of-translate-model-for-knowledge-graph-embedding-29042be64273)
-
+* [A Comprehensive Survey of Knowledge Graph
+Embeddings with Literals: Techniques and
+Applications](https://alammehwish.github.io/dl4kg-eswc/papers/paper%204.pdf)
 
 ## Datasets
 
@@ -106,6 +112,7 @@ I write notes of paper and post them in the issue. It is written in Chinese. Fee
 
 ## Implementations and Tools
 
+- [Stanford CoreNLP reference](https://stanfordnlp.github.io/CreNLP/index.html)
 
 ### Tools
 
